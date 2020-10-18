@@ -15,7 +15,7 @@
     "react-icons": "^3.11.0",
     "react-scripts": "3.4.3"
   },
-  "homepage": "https://fubara-null.github.io/eTaskgit",
+  "homepage": "https://fubara-null.github.io/daily",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
